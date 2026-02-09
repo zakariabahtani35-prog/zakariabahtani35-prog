@@ -1,15 +1,18 @@
-<!-- Ultimate GitHub Profile README - Zakaria Bahtani -->
+<!-- ===================================================== -->
+<!--   Ultimate GitHub Profile README - Zakaria Bahtani   -->
+<!-- ===================================================== -->
 
 <h1 align="center">
-  Hey 👋, I'm Zakaria Bahtani
+  Hi 👋, I'm Zakaria Bahtani
 </h1>
 
 <h3 align="center">
-  ♟️ Chess Enthusiast • 🎵 Music Lover • 💻 Passionate Developer
+  Creative Digital Marketer • Social Media Strategist • Web Developer • UX/UI Enthusiast
 </h3>
 
 <p align="center">
-  Crafting clean, scalable and high-performance web experiences.
+  Bridging <b>technology</b>, <b>creativity</b>, and <b>culture</b> to craft meaningful digital experiences  
+  and help brands grow authentically in the digital world.
 </p>
 
 <p align="center">
@@ -23,38 +26,38 @@
 
 ---
 
-<h2 align="center">🎧 Now Playing</h2>
+<h2 align="center">🚀 Professional Profile</h2>
 
 <p align="center">
-  <a href="https://readme.andyruwruw.com/api/now-playing?open">
-    <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/now-playing.svg">
-  </a>
+  I am a creative and results-driven <b>Digital Marketing & Social Media Management professional</b>  
+  with strong expertise in <b>Web Development</b> and <b>Digital Strategy</b>.  
+  Passionate about merging <b>technology</b>, <b>creativity</b>, and <b>culture</b>  
+  to design impactful online experiences and scalable brand ecosystems.
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/top-played.svg">
-</p>
-
----
-
-<h2 align="center">♟️ Chess Arena</h2>
-
-<p align="center">
-  <a href="https://www.chess.com">
-    <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/chess-games.svg">
-  </a>
-</p>
-
-<p align="center">
-  <i>Strategy. Focus. Precision.</i>
+  My skill set spans <b>content creation</b>, <b>data analytics</b>, and <b>campaign optimization</b>,  
+  supported by a solid foundation in <b>graphic design</b>, <b>UX/UI</b>,  
+  and <b>modern web technologies</b>.  
+  Driven by innovation and performance, I build digital projects that connect  
+  <b>art, intelligence, and human experience</b> to deliver results that truly matter.
 </p>
 
 ---
 
-<h2 align="center">⚙️ Tech Stack</h2>
+<h2 align="center">🛠️ Core Skills & Technologies</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs,python,git,github,vscode,figma">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs,python,figma,photoshop,illustrator,git,github">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Digital%20Marketing-Expert-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Social%20Media%20Strategy-Advanced-purple?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Content%20Creation-Pro-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/UX/UI%20Design-Advanced-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Data%20Analytics-Strong-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Campaign%20Optimization-Expert-black?style=for-the-badge">
 </p>
 
 ---
@@ -75,16 +78,7 @@
 
 ---
 
-<h2 align="center">🚀 About Me</h2>
-
-<p align="center">
-  I'm a driven developer passionate about modern web technologies, UI/UX excellence and performance optimization.  
-  I enjoy solving problems, building elegant solutions, and constantly leveling up my skills.
-</p>
-
----
-
-<h2 align="center">🌍 Connect With Me</h2>
+<h2 align="center">🌍 Let's Connect</h2>
 
 <p align="center">
   <a href="https://www.instagram.com/zacs_459/">
@@ -98,5 +92,5 @@
 ---
 
 <h3 align="center">
-  ⚡ "Code. Create. Improve. Repeat." ⚡
+  ⚡ "Turning ideas into impactful digital experiences." ⚡
 </h3>
