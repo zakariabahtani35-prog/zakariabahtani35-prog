@@ -1,4 +1,3 @@
-```html
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
@@ -427,4 +426,3 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:EF4444,50:7F1D1D,100:050505&height=120&section=footer&text=LAKO%20AGENCY%20%2F%2F%20MOROCCO&fontSize=16&fontColor=FFFFFF&fontAlignY=72" width="100%" alt="Footer Wave" />
 
 </div>
-```
