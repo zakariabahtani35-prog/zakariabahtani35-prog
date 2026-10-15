@@ -1,11 +1,11 @@
+
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--            00 // 3D CYBER-VENOM ANIMATED COMMAND HEADER (RED & BLACK)           -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050505,40:450A0A,100:EF4444&height=185&section=header&text=ZAKARIA%20BAHTANI&fontSize=45&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=%E2%9A%A1%20FOUNDER%20%40%20LAKO%20AGENCY%20%E2%80%A2%20SOFTWARE%20%26%20DATA%20ARCHITECT%20%E2%80%A2%20AI%20AUTOMATION%20%E2%9A%A1&descAlignY=66&descSize=14&stroke=DC2626&strokeWidth=2" width="100%" alt="Zakaria Bahtani 3D Header" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050505,40:450A0A,100:EF4444&height=185&section=header&text=ZAKARIA%20BAHTANI&fontSize=45&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=FOUNDER%20-%20LAKO%20AGENCY%20-%20SOFTWARE%20AND%20DATA%20ARCHITECT%20-%20AI%20AUTOMATION&descAlignY=66&descSize=14&stroke=DC2626&strokeWidth=2" width="100%" alt="Zakaria Bahtani 3D Header" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:EF4444,100:050505&height=4" width="100%" alt="Glowing Red Laser Bar" />
+
+</div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!--                         PRIMARY HERO MASTERPIECE BANNER                         -->
