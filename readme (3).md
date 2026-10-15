@@ -2,14 +2,14 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--               3D CYBER-VENOM ANIMATED COMMAND HEADER (RED & BLACK)              -->
+<!--            00 // 3D CYBER-VENOM ANIMATED COMMAND HEADER (RED & BLACK)           -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050505,40:450A0A,100:EF4444&height=180&section=header&text=ZAKARIA%20BAHTANI&fontSize=44&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=%E2%9A%A1%20FOUNDER%20%40%20LAKO%20AGENCY%20%E2%80%A2%20SOFTWARE%20%26%20DATA%20ARCHITECT%20%E2%80%A2%20AI%20AUTOMATION%20%E2%9A%A1&descAlignY=66&descSize=14&stroke=DC2626&strokeWidth=2" width="100%" alt="Zakaria Bahtani 3D Header" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050505,40:450A0A,100:EF4444&height=185&section=header&text=ZAKARIA%20BAHTANI&fontSize=45&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=%E2%9A%A1%20FOUNDER%20%40%20LAKO%20AGENCY%20%E2%80%A2%20SOFTWARE%20%26%20DATA%20ARCHITECT%20%E2%80%A2%20AI%20AUTOMATION%20%E2%9A%A1&descAlignY=66&descSize=14&stroke=DC2626&strokeWidth=2" width="100%" alt="Zakaria Bahtani 3D Header" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:EF4444,100:050505&height=4" width="100%" alt="Glowing Red Laser Bar" />
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                            HERO MASTERPIECES BANNER                             -->
+<!--                         PRIMARY HERO MASTERPIECE BANNER                         -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <img src="https://wa9tna.wordpress.com/wp-content/uploads/2026/10/gemini_generated_image_duki4xduki4xduki.jpeg" width="100%" alt="Zakaria Bahtani — Software, Data Engineering and Digital Growth" />
 
@@ -21,11 +21,11 @@
 <!--                  DUAL SYNCHRONIZED 3D HUD TYPING TERMINALS                      -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <a href="https://github.com/zakariabahtani35-prog">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2400&pause=650&color=EF4444&center=true&vCenter=true&width=900&lines=%5B+SYSTEM+ONLINE+%2F%2F+v9.0+%5D+ZAKARIA+BAHTANI+%E2%80%94+FOUNDER+%40+LAKO+AGENCY;%E2%9A%99%EF%B8%8F+DATA+ENGINEERING+%E2%80%A2+POSTGIS+GEOSPATIAL+%E2%80%A2+HIGH-SCALE+BI+PIPELINES;%F0%9F%9A%80+FULL-STACK+ARCHITECT+%E2%80%A2+NEXT.JS+%E2%80%A2+REACT+%E2%80%A2+CLOUD-NATIVE+SYSTEMS;%F0%9F%A4%96+AI+AGENTS+%E2%80%A2+AUTONOMOUS+WORKFLOWS+%E2%80%A2+DIGITAL+GROWTH+ENGINES" alt="Primary HUD Terminal" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2400&pause=650&color=EF4444&center=true&vCenter=true&width=900&lines=%5B+SYSTEM+ONLINE+%2F%2F+OMEGA+v10.0+%5D+ZAKARIA+BAHTANI+%E2%80%94+FOUNDER+%40+LAKO+AGENCY;%E2%9A%99%EF%B8%8F+DATA+ENGINEERING+%E2%80%A2+POSTGIS+GEOSPATIAL+%E2%80%A2+HIGH-SCALE+BI+PIPELINES;%F0%9F%9A%80+FULL-STACK+ARCHITECT+%E2%80%A2+NEXT.JS+%E2%80%A2+REACT+%E2%80%A2+CLOUD-NATIVE+SYSTEMS;%F0%9F%A4%96+AI+AGENTS+%E2%80%A2+AUTONOMOUS+WORKFLOWS+%E2%80%A2+DIGITAL+GROWTH+ENGINES" alt="Primary HUD Terminal" />
 </a>
 <br/>
 <a href="https://github.com/lako-digital">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=3200&pause=900&color=F87171&center=true&vCenter=true&width=900&lines=%3E%3E+%5BNODE%3A+MOROCCO_MA%5D+%2F%2F+%5BENGINE%3A+LAKO_AGENCY%5D+%2F%2F+%5BSTATUS%3A+100%25+OPERATIONAL%5D;%3E%3E+%5BACTIVE_SYSTEMS%3A+AMA_PLATFORM+%7C+TANGER_MED_POSTGIS+%7C+MOROCCO_EMPLOYMENT_BI+%7C+PESTPRO_2026%5D" alt="Secondary Telemetry Stream" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=3200&pause=900&color=F87171&center=true&vCenter=true&width=900&lines=%3E%3E+%5BNODE%3A+MOROCCO_MA%5D+%2F%2F+%5BENGINE%3A+LAKO_AGENCY%5D+%2F%2F+%5BSTATUS%3A+100%25+OPERATIONAL%5D;%3E%3E+%5BACTIVE_CLUSTERS%3A+AMA_PLATFORM+%7C+TANGER_MED_POSTGIS+%7C+MOROCCO_EMPLOYMENT_BI+%7C+PESTPRO_2026%5D" alt="Secondary Telemetry Stream" />
 </a>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
@@ -59,12 +59,19 @@
 
 </div>
 
+<br/>
+
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--             SECTION 01: 3D CYLINDER HEADER + ARCHITECT HUD CONSOLE              -->
+<!--        SECTION 01: 3D COMMAND CENTER BANNER (IMAGE 1) + ARCHITECT HUD           -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:050505,50:7F1D1D,100:DC2626&height=70&section=header&text=01%20%2F%2F%20ARCHITECT%20HUD%20%26%20CORE%20SPECIFICATION&fontSize=20&fontColor=FFFFFF&animation=fadeIn&fontAlignY=52&stroke=EF4444&strokeWidth=1" width="100%" alt="Section 01 Header" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:050505,50:7F1D1D,100:DC2626&height=70&section=header&text=01%20%2F%2F%203D%20COMMAND%20CENTER%20%26%20ARCHITECT%20HUD&fontSize=20&fontColor=FFFFFF&animation=fadeIn&fontAlignY=52&stroke=EF4444&strokeWidth=1" width="100%" alt="Section 01 Header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:EF4444,100:050505&height=3" width="100%" alt="Red Laser Line" />
+  <img src="https://wa9tna.wordpress.com/wp-content/uploads/2026/10/gemini_generated_image_8fhqkd8fhqkd8fhq.jpeg" width="100%" alt="3D Command Center & Morocco Geospatial Holo-Map" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:EF4444,100:050505&height=3" width="100%" alt="Red Laser Line" />
 </div>
+
+<br/>
 
 <table width="100%">
   <tr>
@@ -89,7 +96,7 @@
     </td>
     <td width="46%" valign="top">
       <pre><code>╔══════════════════════════════════════════════╗
-║ 🔴 ZAKARIA_BAHTANI // CYBER-HUD OS v9.0      ║
+║ 🔴 ZAKARIA_BAHTANI // OMEGA HUD OS v10.0     ║
 ╠══════════════════════════════════════════════╣
 ║ ARCHITECT : Zakaria Bahtani                  ║
 ║ COMMAND   : Founder @ LAKO Agency            ║
@@ -133,11 +140,16 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--             SECTION 02: 3D BENTO PROJECT MATRIX + LIVE REPO CARDS               -->
+<!--      SECTION 02: 3D MARITIME & BI DIGITAL TWIN (IMAGE 3) + BENTO PROJECTS       -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:050505,50:7F1D1D,100:DC2626&height=70&section=header&text=02%20%2F%2F%20DEPLOYED%20MISSIONS%20%26%203D%20BENTO%20MATRIX&fontSize=20&fontColor=FFFFFF&animation=fadeIn&fontAlignY=52&stroke=EF4444&strokeWidth=1" width="100%" alt="Section 02 Header" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:050505,50:7F1D1D,100:DC2626&height=70&section=header&text=02%20%2F%2F%20DEPLOYED%20MISSIONS%20%26%203D%20DIGITAL%20TWINS&fontSize=20&fontColor=FFFFFF&animation=fadeIn&fontAlignY=52&stroke=EF4444&strokeWidth=1" width="100%" alt="Section 02 Header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:EF4444,100:050505&height=3" width="100%" alt="Red Laser Line" />
+  <img src="https://wa9tna.wordpress.com/wp-content/uploads/2026/10/gemini_generated_image_lkizbflkizbflkiz-1.jpeg" width="100%" alt="3D Geospatial Maritime Port & Business Intelligence Digital Twin" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:EF4444,100:050505&height=3" width="100%" alt="Red Laser Line" />
 </div>
+
+<br/>
 
 <table width="100%">
   <tr>
@@ -209,11 +221,16 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--             SECTION 03: 3D TECH ARSENAL & WEAPONRY MATRIX                       -->
+<!--       SECTION 03: 3D AI & BIG DATA REACTOR (IMAGE 4) + TECH ARSENAL MATRIX      -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:050505,50:7F1D1D,100:DC2626&height=70&section=header&text=03%20%2F%2F%203D%20TECH%20ARSENAL%20%26%20ENGINEERING%20MATRIX&fontSize=20&fontColor=FFFFFF&animation=fadeIn&fontAlignY=52&stroke=EF4444&strokeWidth=1" width="100%" alt="Section 03 Header" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:050505,50:7F1D1D,100:DC2626&height=70&section=header&text=03%20%2F%2F%203D%20AI%20%26%20DATA%20REACTOR%20%2B%20TECH%20ARSENAL&fontSize=20&fontColor=FFFFFF&animation=fadeIn&fontAlignY=52&stroke=EF4444&strokeWidth=1" width="100%" alt="Section 03 Header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:EF4444,100:050505&height=3" width="100%" alt="Red Laser Line" />
+  <img src="https://wa9tna.wordpress.com/wp-content/uploads/2026/10/gemini_generated_image_lkizbflkizbflkiz-2.jpeg" width="100%" alt="3D AI Automation & Big Data Crystalline Reactor" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:EF4444,100:050505&height=3" width="100%" alt="Red Laser Line" />
 </div>
+
+<br/>
 
 <table width="100%">
   <tr>
@@ -269,11 +286,16 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--             SECTION 04: CAREER QUEST LOG & EXECUTIVE TIMELINE                   -->
+<!--    SECTION 04: 3D CYBER-GYM POWER ARENA (IMAGE 2) + EXECUTIVE QUEST TIMELINE    -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:050505,50:7F1D1D,100:DC2626&height=70&section=header&text=04%20%2F%2F%20CAREER%20QUEST%20LOG%20%26%20LEADERSHIP%20TIMELINE&fontSize=20&fontColor=FFFFFF&animation=fadeIn&fontAlignY=52&stroke=EF4444&strokeWidth=1" width="100%" alt="Section 04 Header" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:050505,50:7F1D1D,100:DC2626&height=70&section=header&text=04%20%2F%2F%20HIGH-PERFORMANCE%203D%20ARENA%20%26%20QUEST%20LOG&fontSize=20&fontColor=FFFFFF&animation=fadeIn&fontAlignY=52&stroke=EF4444&strokeWidth=1" width="100%" alt="Section 04 Header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:EF4444,100:050505&height=3" width="100%" alt="Red Laser Line" />
+  <img src="https://wa9tna.wordpress.com/wp-content/uploads/2026/10/gemini_generated_image_lkizbflkizbflkiz.jpeg" width="100%" alt="3D Futuristic Red & Black Cyber-Gym & High-Performance Arena" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:EF4444,100:050505&height=3" width="100%" alt="Red Laser Line" />
 </div>
+
+<br/>
 
 <table width="100%">
   <thead>
@@ -310,7 +332,7 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--         SECTION 05: ULTIMATE 7-WIDGET RED & BLACK TELEMETRY COMMAND             -->
+<!--         SECTION 05: ULTIMATE 9-WIDGET RED & BLACK TELEMETRY COMMAND             -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:050505,50:7F1D1D,100:DC2626&height=70&section=header&text=05%20%2F%2F%20LIVE%20TELEMETRY%2C%20TROPHIES%20%26%203D%20ANALYTICS&fontSize=20&fontColor=FFFFFF&animation=fadeIn&fontAlignY=52&stroke=EF4444&strokeWidth=1" width="100%" alt="Section 05 Header" />
