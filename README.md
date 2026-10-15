@@ -1,5 +1,3 @@
-🔴 كود README.md الجاهز للنسخ المباشر إلى GitHub (بدون أخطاء ترميز)طريقة النسخ الصحيحة (لتجنب ظهور الأكواد كنص عادي في GitHub): اضغط على زر Copy (نسخ الكود) الموجود في الزاوية العلوية لمربع الكود الأسود أدناه، ثم الصقه مباشرة داخل ملف README.md في GitHub:<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:050505,50:7F1D1D,100:EF4444&height=165&section=header&text=ZAKARIA%20BAHTANI&fontSize=42&fontColor=FFFFFF&animation=twinkling&fontAlignY=40&desc=%E2%9A%A1%20FOUNDER%20%40%20LAKO%20AGENCY%20%E2%80%A2%20SOFTWARE%20%26%20DATA%20ARCHITECT%20%E2%80%A2%20AI%20AUTOMATION%20%E2%9A%A1&descAlignY=68&descSize=14&stroke=DC2626&strokeWidth=1" width="100%" alt="Zakaria Bahtani Header" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:EF4444,100:050505&height=3" width="100%" alt="Red Neon Divider" />
