@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:EF4444,100:050505&height=3" width="100%" alt="Red Neon Divider" />
 
-<img src="https://wa9tna.wordpress.com/wp-content/uploads/2026/10/gemini_generated_image_duki4xduki4xduki.jpeg" width="100%" alt="Zakaria Bahtani — Software, Data Engineering and Digital Growth" />
+<img src="[https://wa9tna.wordpress.com/wp-content/uploads/2026/10/gemini_generated_image_duki4xduki4xduki.jpeg](https://wa9tna.wordpress.com/wp-content/uploads/2026/10/gemini_generated_image_8fhqkd8fhqkd8fhq.jpeg)" width="100%" alt="Zakaria Bahtani — Software, Data Engineering and Digital Growth" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:EF4444,100:050505&height=3" width="100%" alt="Red Neon Divider" />
 
